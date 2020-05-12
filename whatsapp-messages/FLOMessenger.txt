@@ -1,0 +1,65 @@
+FLO Messenger
+
+
+RanchiMall is pleased to announce the launch of our product FLO Messenger: a blockchain messaging and email service based on the RanchiMall Decentralized Cloud System. 
+
+Features of FLO Messenger
+
+No user registration
+No user verification with mobile phones or email is needed to use FLO Messenger unlike conventional messaging and email systems. Users can directly create a FLO ID and its private key independently on their devices and start using FLO Messenger
+
+Blockchain ID <-> Blockchain ID communication 
+FLO Messenger sends messages and emails between Sender ID <-> Receiver ID; where each ID is a unique FLO Address. Think of FLO Address as the address of your house; people who want to contact you can send a mail at your house address. But to open the mailbox and read mails, there is a private key which only the house owner knows about. Similarly, in FLO Messenger a user receives messages/emails on his FLO Address & he/she checks them by logging into FLO Messenger entering his/her Private Key.
+
+Digitally Signed Messages 
+Every message on FLO Messenger is signed and encrypted before it goes out on the internet. Signing messages assures the receiver that the sender is authentic. This creates trust among users in the system by eliminating the possibility of Phishing attacks. FLO Messenger also stores a user's messages in RanchiMall FLO Decentralized Blockchain Cloud. 
+
+Encrypted Messages
+The system automatically encrypts the emails and messages to any blockchain ID after the first reply is received from the receiver’s blockchain ID. Since the actual public key of the recipient is not known when a user sends a message to a random FLO ID, it is not possible to encrypt it. Once the recipient replies, the sender obtains the public key, and thereafter all messages are encrypted. 
+
+Simplification of email systems by eliminating username and passwords
+FLO Messenger system completely eliminates passwords from the messaging and email system. It also eliminates the need for username. The end-user software only needs one piece of data, the private key, and you are good to go. Not only does it simplify email and messaging systems, it also makes it more secure by taking away the need to maintain password security in the system. 
+
+No Software or App installation needed 
+To get started, the user simply needs to run the HTML file on his browser. There is no need to install an Android or Apple App or any Chrome Extension.
+
+Single Page HTML 
+The entire system needs just a single HTML page for the user to perform all functions. This makes it easy to distribute the system.
+
+Data Backups and Restoration
+The application comes with encrypted data backup and restoration features. If a user changes his device, he can easily migrate his data. 
+
+Guest Facilities
+Users can log-in as guests for the first time to explore the product, generate their FLO ID and private keys in the FLO Messenger application itself. They can then go to settings, and retrieve their private keys for later usages.  
+
+Server Less System  
+FLO Messenger uses decentralized data cloud to temporarily transmit messages if the recipient is not online. So it is a pure server less system. 
+
+Why use FLO Messenger?
+Whereas a regular email and messaging service is good for daily periodic communications, they fall short in the cases described below. FLO Messenger will open up new applications currently not possible. 
+
+1. Communication with Token and Smart Contract creators/administrators
+Users participating in Token Transfer and management system & Smart Contracts can communicate directly using their smart contract or token transfer addresses.
+
+* Communicate directly with the owners/managers of FLO Smart Contracts directly with Blockchain ID
+* Communicate directly with the companies/managers of a Token issuance/ICO directly at blockchain issuance ID
+
+2. Communication with Blockchain-based help desks 
+FLO Messenger can be used as a helpdesk system when the only identity is the blockchain ID. Users can get full confidence that they are getting helped by genuine guys in case of disputes in smart contracts or token transfer systems.
+
+
+3. Discourages sexually predatory behaviour   
+FLO Messenger ensures messages/mail sent to an unknown FLO Blockchain ID are not encrypted until the receiver replies back. This incentivises users in the system to not abuse it. In a decentralized messaging system where the users don't know each other, it is essential to keep bad actors out.
+
+4. Authentic software releases 
+FLO Messenger is very useful in cases where authorized software releases have to be done.  Using FLO Messenger, developers can release software by simply passing a link or message though the messenger application. Since every message is digitally signed by the developer’s Blockchain ID, trust is formed.
+
+5. Participation in wider Blockchain ecosystem
+Blockchain IDs are traditionally used to just receive payments, each of them is like a bank account. In RanchiMall's FLO Blockchain ecosystem, user identity is Blockchain ID itself. Users only maintain 1 pair of FLO address-private key and use it across RanchiMall's rich ecosystem of FLO Blockchain-based applications like:
+* FLO Decentralized Exchange (For Bitcoin trading)
+* FLO Messenger (For Email and Messaging)
+* FLO Logsheets (For Blockchain based Data Processing) 
+* FLO Content collaboration (For blockchain based collaborative content creation) 
+ 
+6. Applications with Public Key Infrastructure(PKI) Management are difficult  
+Because we use FLO Blockchain IDs as identification in our application, it removes the need to implement Public Key Infrastructure(PKI) for public key encryption. As the FLO ID itself is a form of public key, we can directly deduce the right public key of recipient and sender without using a PKI.

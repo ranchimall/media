@@ -1,0 +1,13 @@
+Why you as a ordinary user need RanchiMall Cloud Storage:-
+
+1.) "Providing Full Privacy" - Your data was never safe with you, it was shared, manipulated and owned by others but this time your data is shared but not with a 3rd party or a person but shared on a decentralized system, where only you know how to open and read the data. There is no owner of your data from now except you.
+
+2.) "Easy Backup" - As an ordinary user you used to keep your data in your Cell Phones or Laptops or Write it over a piece of paper. What if you lose the cellphone and your laptop? Our cloud storage allows you to recover and get your data back to you anytime you use a laptop or a cellphone with internet.
+
+3.) "Very Large Storage Capacity" - This Blockchain based Cloud Storage gives you more storage than the traditional ones as it is not centralized and can grow with more number of users coming to the system, so there is no actual limit on how much data you can store in this cloud storage.
+
+4.) "No Installation Required" - No need to install and manage mobile apps or a PC software to store your data on Cloud. RanchiMall Cloud Storage allows you to do all the storing, backing up and recovery of the data through One Single HTML link. Click it and you are there.
+
+5.) "No User Registration Needed" - You don't need to enter your e-mail and phone number and your address to sign up or register for this Cloud Storage, all you need is a Blockchain ID and it's Private Key and you are all set to use our Cloud Storage System.
+
+6.) "Secure Communication" - No way your data can be accessed by others or manipulated or stolen or destroyed. Once it's stored over the Cloud Storage, you can access it anytime with your private key. The communication between You as a user and the Application (FLO Messenger, FLO LogSheet and more) is safe and private with only you. As all the data are encrypted, even the Applications like FLO Messenger will not have your decrypted data, so whatever you are sharing on cloud, originally remains with you and no one can access it. What happens on Blockchain, stays in Blockchain.

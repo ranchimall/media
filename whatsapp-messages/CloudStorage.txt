@@ -1,0 +1,28 @@
+RanchiMall Cloud Storage
+
+
+
+RanchiMall is pleased to announce the release of the product "RanchiMall Cloud Storage"
+
+
+What is RanchiMall Cloud Storage :-
+
+It is a Blockchain based data storage platform on cloud, where the cloud storage system is totally decentralized, User's data is distributed among independent servers and No One owns or can access that data except the User itself.
+
+Keypoints of RanchiMall Cloud Storage System :-
+
+1.) Storing Capability -  It stores any type of data which is text, media(image, audio, video, graphics etc), or a document file.
+
+2.) Secured Data -  All the data stored in the cloud are secured with encryption and digital signatures of users, making it fully secured with cloud storage.
+
+3.) One Blockchain ID Solution -  The cloud storage is decentralized and allows the users to have full authority on their data as there is no central owner in this system, the user is the owner of his data which can be accessed anytime using only one Blockchain ID of the user.
+
+4.) Elimination of PKI - In RanchiMall Cloud Storage, there is no need of PKI(Public Key Infrastructure) as the whole system is based on Blockchain ID which themselves are digitally verified hence cutting the cost and implementation work of PKI system.
+
+5.) No risk of counterfeit or bad data -  In this cloud system, everything is digitally encrypted and the users can be verified using their Blockchain ID, so all the users in this system are verified before making any communication with cloud, hence it provides genuineness of users and eliminates counterfeit users and data.
+
+6.) Trust of Blockchain -  This Cloud Storage System creates trust among users because it's based on blockchain and everything on blockchain is safe, decentralized, immutable and can be accessed only with the User's permission.
+
+7.) Blockchain Based Applications on Cloud -  There will be a number of applications made over this Cloud Storage system, and these applications will use the Cloud Storage directly in order to communicate with the users, that means whichever application a user uses, will be on Cloud Storage System and all the data associated with related application will also work the same way where all the data is safe, secured and encrypted, so RanchiMall is giving your privacy back to you. Your Data Your Ownership.
+
+8.) Automatic Backup of Data on Cloud -  RanchiMall Cloud Storage not only provides only storing the data securely but it allows the users to recover those data anytime they want. Great thing is that all the user fed data is automatically backed up with other supernodes in the system at the time of uploading itself. Data Uploaded is Data Backed Up.
