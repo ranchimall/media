@@ -1,3 +1,3 @@
-# Ranchi Mall media
+# RanchiMall media
 
-A collection of logos, posters and other media related to Ranchi Mall. 
+A collection of logos, posters and other media related to RanchiMall. 
