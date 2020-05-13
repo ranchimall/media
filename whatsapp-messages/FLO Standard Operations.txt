@@ -21,7 +21,7 @@ floCrypto.verifyShamirsSecret
 floCrypto.verifySign
 
 
-floBlockhainAPI
+floBlockchainAPI
 
 floBlockchainAPI.broadcastTx
 floBlockchainAPI.getBalance
@@ -94,3 +94,19 @@ floSupernode.requestData
 floSupernode.requestDataFromSN
 floSupernode.sendData
 floSupernode.sendDataToSN
+
+
+compactIDB
+
+compactIDB.addData
+compactIDB.clearData
+compactIDB.dbName
+compactIDB.deleteDB
+compactIDB.initDB
+compactIDB.openDB
+compactIDB.readAllData
+compactIDB.readData
+compactIDB.removeData
+compactIDB.searchData
+compactIDB.setDefaultDB
+compactIDB.writeData
